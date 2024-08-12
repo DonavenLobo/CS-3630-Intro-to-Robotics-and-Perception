@@ -1,0 +1,4 @@
+cvxopt
+scipy
+numpy
+matplotlib==3.7.1
